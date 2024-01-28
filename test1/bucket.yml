@@ -1,6 +1,6 @@
 flows:
-  009c1ca2-6ec2-4105-a230-29b0d0e6e87a: {ver: 1, file: flow2.snapshot, comments: '',
-    author: anonymous, created: 1706402314581, flowName: flow2, flowDesc: ''}
+  009c1ca2-6ec2-4105-a230-29b0d0e6e87a: {ver: 2, file: flow2.snapshot, comments: '',
+    author: anonymous, created: 1706402564041, flowName: flow2, flowDesc: ''}
   ec7ba110-779e-4016-a693-d54fad8dcaf2: {ver: 1, file: Flow1.snapshot, comments: '',
     author: anonymous, created: 1706401697806, flowName: Flow1, flowDesc: ''}
 layoutVer: 1
