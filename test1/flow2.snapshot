@@ -26,7 +26,33 @@
           "x" : 429.0,
           "y" : 196.0
         },
-        "processGroups" : [ ],
+        "processGroups" : [ {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "defaultBackPressureDataSizeThreshold" : "1 GB",
+          "defaultBackPressureObjectThreshold" : 10000,
+          "defaultFlowFileExpiration" : "0 sec",
+          "flowFileConcurrency" : "UNBOUNDED",
+          "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+          "funnels" : [ ],
+          "groupIdentifier" : "2858fb46-a196-3f5d-a8e4-d62f29f25f08",
+          "identifier" : "72f9b2b0-49d2-3b87-b86b-7ed354404402",
+          "inputPorts" : [ ],
+          "instanceIdentifier" : "583d3468-018d-1000-a91d-03e2fc0a1019",
+          "labels" : [ ],
+          "name" : "ProcessGroup 1 1 ",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : 258.0,
+            "y" : 585.0
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "variables" : { }
+        } ],
         "processors" : [ {
           "autoTerminatedRelationships" : [ ],
           "backoffMechanism" : "PENALIZE_FLOWFILE",
